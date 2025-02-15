@@ -2,6 +2,8 @@ Contribution guidelines
 Welcome Contributors!
 Thank you for considering contributing to the github-final-project. This document outlines the guidelines for contributing to the development of github-final-project.
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 Code style
 Please follow the coding style and conventions used in the existing codebase. This helps maintain consistency across the project.
 
